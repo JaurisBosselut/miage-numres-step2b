@@ -60,4 +60,4 @@ Pour cela, il suffit de :
 # Commandes Utiles
 * ```./mvnw clean compile ``` : Compilation du projet
 * ```./mvnw clean package``` : Construction du projet en mode JVM
-* ```./mvnw clean package -P native -Dquarkus.native.container-build=false``` : Construction du projet en mode Natif
+* ```./mvnw clean package -P native -Dquarkus.native.container-build=false -Dquarkus.native.native-image-xmx=4g``` : Construction du projet en mode Natif
