@@ -14,7 +14,7 @@ Temps: 0.085126s
 Taille: 1 byte
 
 # Q5 : Empreinte mémroire en mode natif ?
-Réponse:
+Réponse: Je n'ai pas pu lancer le mode natif
 
 # Q6: Temps et  taille  réponse   liste les questions
 Temps:
